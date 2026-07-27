@@ -1,7 +1,9 @@
 # Script configuration parameters
-MODULE_ID=""
-MODULE_NAME=""
-MODULE_DES=""
+MODULE_ID="kongdwm"
+MODULE_NAME="高自定义度的自动化模块安装和配置模块
+"
+MODULE_DES="重启后此模块会自动删除，请勿干扰 zh
+"
 # Base path for module storage
 # MODPATH
 
