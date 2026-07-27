@@ -5,7 +5,7 @@ MODULE_DES=""
 # Base path for module storage
 # MODPATH
 
-print_languages="en"                   # Default language for printing
+print_languages="zh"                   # Default language for printing
 CustomScript=true
 # Path definitions for various directories
 SDCARD="/storage/emulated/0"           # Path to user-space sdcard
